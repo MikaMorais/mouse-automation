@@ -6,7 +6,7 @@ import time
 pyautogui.FAILSAFE = False
 pyautogui.PAUSE = 0
 
-timeout = time.time() + 60 * 1
+timeout = time.time() + 60 * 60
 
 
 try:    
