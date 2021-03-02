@@ -1,3 +1,3 @@
-"# mouse-automation" 
+# Mouse Automation
 
-FUNCIONAMENTO DA APLICAÇÃO
+Aplicação na qual realiza a movimentação automatica do cursor do mouse utilizando a biblioteca pyautogui
